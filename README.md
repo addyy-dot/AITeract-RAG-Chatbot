@@ -1,4 +1,4 @@
-# AITeract-RAG-Generation
+# AITeract-RAG-Chatbot
 
 AITeract is a smart chatbot designed for the students and faculty of **Army Institute of Technology (AIT), Pune**. It uses **Retrieval-Augmented Generation (RAG)** to answer queries by retrieving relevant data from a custom knowledge base and generating accurate responses.
 
