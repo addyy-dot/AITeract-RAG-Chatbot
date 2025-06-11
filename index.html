@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AITeract</title>
+    <!-- adding icons from google fonts-->
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <!-- header greetings-->
+        <h2 class="title">Hello, there</h2>
+        <h4 class="subtitle">How can I help you today?</h4>
+        <!-- suggestion list-->
+         <ul class="suggestion-list">
+            <li class="suggestion">
+                <h4 class="text">Where is Army Institute of Technology located ?</h4> 
+                <span class="icon material-symbols-rounded">
+                    location_on
+                </span> 
+            </li>
+            <li class="suggestion">
+                <h4 class="text">Is there Hostel Accomodation at AIT Pune ?</h4> 
+                <span class="icon material-symbols-rounded">
+                    home
+                    </span>
+              </li>
+              <li class="suggestion">
+                <h4 class="text">What is the intake of students at AIT Pune ?</h4> 
+                <span class="icon material-symbols-rounded">
+                 explore
+                  </span> 
+              </li>
+              <li class="suggestion">
+                <h4 class="text">How many branches are there in AIT Pune ?
+             </h4> 
+                <span class="icon material-symbols-rounded">
+                  code
+                  </span> 
+              </li>
+         </ul>
+    </header>
+<!--chat list/container-->
+    <div class="chat-list"></div>
+    <!-- typing area-->
+    <div class="typing-area">
+        <form action="#" class="typing-form">
+            <div class="input-wrapper">
+                <input type="text" placeholder = "Enter a prompt here" class="typing-input" required>
+                <button class="icon material-symbols-rounded">
+                    send
+                </button>
+            </div>
+            <div class="action-buttons">
+                <span id = "toggle-theme-button" class="icon material-symbols-rounded">
+                    light_mode
+                    </span>
+                    <span id = "delete-chat-button" class="icon material-symbols-rounded">
+                        delete
+                        </span>
+                 </div>
+        </form>
+        <p class="disclaimer-text">
+            AITeract may display inaccurate info, including about people, so double check its response
+        </p>
+        
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
