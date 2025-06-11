@@ -28,10 +28,15 @@ AITeract is a smart chatbot designed for the students and faculty of **Army Inst
 ## Learning Highlights
 
 -- Learned how to combine a static knowledge base with natural language inputs to provide relevant and context-aware responses.
+
 -- Gained hands-on experience in building interactive web applications using HTML, CSS, and JavaScript.
+
 -- Structured a custom domain-specific knowledge base for AIT-related queries using JSON/JavaScript objects.
+
 -- Implemented dynamic input handling, search matching, and conditional logic to simulate intelligent responses.
+
 -- Designed a clean and intuitive chat interface with suggested prompts and smooth user experience.
+
 -- Managed project code using Git and hosted it on GitHub for collaboration and sharing.
 
 
