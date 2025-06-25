@@ -20,9 +20,9 @@ AITeract is a smart chatbot designed for the students and faculty of **Army Inst
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
-- Custom Knowledge Base (JS Object / JSON)
-- [Optional: Google Gemini API / Local RAG logic]
+- JavaScript 
+- Custom Knowledge Base 
+- Google Gemini API
 
 ---
 ## Learning Highlights
