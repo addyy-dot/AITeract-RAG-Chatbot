@@ -200,7 +200,7 @@ Col MK Prasad (Retd ) is the current director of AIT Pune.
 
 
 // API conifiguration
-const API_KEY = "AIzaSyC_Y3DpzsUUdX1si-zUJaaU-KxGQmc-l_Y";
+const API_KEY = "YOUR_API_KEY";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${API_KEY}`;
 
 const loadLocalStorageData = () => {
